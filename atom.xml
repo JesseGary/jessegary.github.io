@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>商店</title>
-    <updated>2020-04-12T10:19:47.429Z</updated>
+    <updated>2020-04-12T10:35:05.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -11,13 +11,15 @@
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 商店</rights>
     <entry>
-        <title type="html"><![CDATA[是男人就挺30秒]]></title>
-        <id>https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/</id>
-        <link href="https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/">
+        <title type="html"><![CDATA[Tuling Studio 20200210]]></title>
+        <id>https://jessegary.github.io/post/tuling-studio-20200210/</id>
+        <link href="https://jessegary.github.io/post/tuling-studio-20200210/">
         </link>
-        <updated>2020-04-12T10:08:36.000Z</updated>
-        <content type="html"><![CDATA[<p>By 安逸-PPT<br>
-下载地址：https://quqi.gblhgk.com/s/356133/9Pix2cwRXFsF2Rur</p>
+        <updated>2020-04-12T10:30:48.000Z</updated>
+        <content type="html"><![CDATA[<p>By Newgen Studio<br>
+Tuling Studio 是 Newgen Studio 发布的一款适用于快速开发 PPT 应用 的工作室 PPT 程序。<br>
+快速开发程序！</p>
+<p>下载地址https://quqi.gblhgk.com/s/356133/g2aSVNlCfarKcr3C（39M</p>
 ]]></content>
     </entry>
     <entry>
@@ -40,7 +42,7 @@
         </link>
         <updated>2020-04-12T10:04:26.000Z</updated>
         <content type="html"><![CDATA[<p>By Newgen Studio<br>
-轻轻松松看电视</p>
+轻轻松松看电视,在 PowerPoint 上领略一把网络电视的风采</p>
 <p>下载地址:https://quqi.gblhgk.com/s/356133/kordBuwI7g5Yv6ZN</p>
 ]]></content>
     </entry>
