@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-12T10:18:31.401Z</updated>
+    <title>商店</title>
+    <updated>2020-04-12T10:19:47.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
     <subtitle>欢迎来到生态圈商店，您可以在这里下载应用</subtitle>
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 商店</rights>
     <entry>
         <title type="html"><![CDATA[是男人就挺30秒]]></title>
         <id>https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/</id>
