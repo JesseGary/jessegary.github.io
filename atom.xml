@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>商店</title>
-    <updated>2020-04-13T08:40:15.306Z</updated>
+    <updated>2020-04-18T05:18:47.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 商店</rights>
+    <entry>
+        <title type="html"><![CDATA[感谢您，PanDownload]]></title>
+        <id>https://jessegary.github.io/post/gan-xie-nin-pandownload/</id>
+        <link href="https://jessegary.github.io/post/gan-xie-nin-pandownload/">
+        </link>
+        <updated>2020-04-18T05:05:58.000Z</updated>
+        <content type="html"><![CDATA[<p>#感谢您，PanDownload#</p>
+<p>PanDownload镜像站（来自MXrok）http://pand.oxy-team.space/index.html</p>
+<p>PanDownload 2.2.2下载（来自http://pand.oxy-team.space/）:https://www.lanzous.com/i8ua9na（蓝奏云）</p>
+<p>PanDownload 的 GitHub https://github.com/cherryljr/PanDownload<br>
+*（应该是他）</p>
+<p>以及MXrok在b站上av370257968发布的评论<br>
+&quot;滑稽<br>
+我急中生智，在自己服务器上搭了个PanDownload镜像(对，没错整个网页的镜像)<br>
+欢迎大家使用哈<br>
+http://pand.oxy-team.space/<br>
+使用hosts:<br>
+156.236.117.161 pandownload.com&quot;</p>
+<p>&quot;将下面这一行添加到%SystemRoot%\System32\drivers\etc\hosts<br>
+156.236.117.161 pandownload.com&quot;</p>
+<p>将会把官网重定向到镜像站<br>
+如果添加不了，试试用管理员权限打开</p>
+<figure data-type="image" tabindex="1"><img src="https://jessegary.github.io/post-images/1587187016366.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小小留言板]]></title>
         <id>https://jessegary.github.io/post/xiao-xiao-liu-yan-ban/</id>
