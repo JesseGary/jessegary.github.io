@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>商店</title>
-    <updated>2020-05-06T04:30:37.048Z</updated>
+    <updated>2020-05-06T04:31:57.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -17,7 +17,6 @@
         </link>
         <updated>2020-04-18T05:05:58.000Z</updated>
         <content type="html"><![CDATA[<p>#感谢您，PanDownload#</p>
-<p>PanDownload镜像站（来自MXrok）http://pand.oxy-team.space/index.html</p>
 <p>PanDownload 2.2.2下载（来自http://pand.oxy-team.space/）:https://www.lanzous.com/i8ua9na（蓝奏云）</p>
 <p>PanDownload 的 GitHub https://github.com/cherryljr/PanDownload<br>
 *（应该是他）</p>
