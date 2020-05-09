@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2020-05-09T02:29:03.523Z</updated>
+    <updated>2020-05-09T02:30:14.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -30,5 +30,12 @@
         <link href="https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/">
         </link>
         <updated>2020-04-12T10:01:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Media Player For PowerPoint By:Newgen Studio]]></title>
+        <id>https://jessegary.github.io/post/ying-yong-ce-shi/</id>
+        <link href="https://jessegary.github.io/post/ying-yong-ce-shi/">
+        </link>
+        <updated>2020-04-12T06:35:48.000Z</updated>
     </entry>
 </feed>
