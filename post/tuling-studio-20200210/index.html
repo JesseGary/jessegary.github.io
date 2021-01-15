@@ -1,38 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
-<link rel="shortcut icon" href="https://jessegary.github.io/favicon.ico" type="image/x-icon" /><meta name="viewport"content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/><meta name="apple-mobile-web-app-capable"content="yes"/><meta name="apple-mobile-web-app-status-bar-style"content="black"/><meta name="format-detection"content="telephone=no"/><meta name="renderer"content="webkit"><meta name="description"content="欢迎来到生态圈商店，您可以在这里下载应用"><meta charset="UTF-8"><title>Tuling Studio 20200210 By:Newgen Studio | Humidity 商店</title>
-<link href="https://jessegary.github.io/styles/main.css" type="text/css" rel="stylesheet" /><link rel="stylesheet" href="https://jessegary.github.io/media/css/katex.css"><script async src="https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.min.js"></script><script src="https://jessegary.github.io/media/js/magnify.min.js"></script><script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"></script><script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
-<script type="text/javascript">function btn_toggle(){document.getElementById("hn").classList.contains("no-js")?document.getElementById("hn").classList.remove("no-js"):document.getElementById("hn").classList.add("no-js")}</script>
-<link rel="canonical" href="https://jessegary.github.io/post/tuling-studio-20200210/" />
+<!-- 必要参数 -->
+<meta charset="utf-8"/>
+<title>Tuling Studio 20200210 By:Newgen Studio | Humidity 商店</title>
+<meta name="keywords" content="关键词"/>
+<meta name="description" content="简述"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable:no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="shortcut icon" href="favicon.ico">
+<!-- CSS -->
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/mdui.min.css">
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/modify.css">
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/github-gist.min.css">
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/railscasts.min.css">
 </head>
-<body>
-<div class="progress"></div><style>.progress{background:linear-gradient(to right,#87ceeb var(--scroll),transparent 0);background-repeat:no-repeat;position:fixed;width:100%;height:4px;z-index:1}</style><div class="darkmode-background"></div><div class="darkmode-layer"></div>
-<noscript><p class="warn" >本页面需要浏览器支持（启用）JavaScript</p></noscript><div class="header"><div class="logo_title"><div class="title animated fadeInDown"><a href="https://jessegary.github.io"><img alt="logo" style="display:inline-block;" src="https://jessegary.github.io/images/avatar.png"/></a><h1 title="Humidity 商店" class="weaklink"><a  href="/">Humidity 商店</a></h1>
+<body id="post" class="mdui-appbar-with-toolbar mdui-theme-primary-blue-grey mdui-theme-accent-blue mdui-theme-layout-dark">
+<header role="banner">
+    <div class="mdui-appbar mdui-appbar-fixed mdui-appbar-scroll-hide mdui-shadow-0">
+        <div class="mdui-toolbar">
+            <button class="mdui-btn mdui-btn-icon" id="menu" mdui-drawer="{target:'#drawer',overlay:true,swipe:true}"><i class="mdui-icon material-icons">menu</i></button>
+            <a href="https://jessegary.github.io" class="mdui-typo-headline">Humidity 商店</a>
+            <div class="mdui-toolbar-spacer"></div>
+            <button class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '深色样式切换', position: 'left'}" id="DarkStyle"><i class="mdui-icon material-icons">brightness_4</i></button>
+        </div>
+    </div>
+</header>
 
-<div class="navbar weaklink">
-<div class="normal_nav">
-<div class="bitcron_nav_container"><div class="bitcron_nav"><div class="bitcron_nav"><div style="display:flex;justify-content:center;"><nav class="mixed_site_nav_wrap site_nav_wrap"><ul class="mixed_site_nav site_nav sm sm-base">	<li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/" class="selected active current nav__item" >应用下载</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="https://jessegary.github.io/post/ying-yong-fa-bu-mo-ban" class="selected active current nav__item" >应用发布模板</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="https://jessegary.github.io/post/huan-ying-lai-dao-jessegary-de-ge-ren-bo-ke" class="selected active current nav__item" >个人博客</a></li></ul></nav>
-<div style="float:right;margin-top:1em"><form id="gridea-search-form" data-update="1578893743252" action="/search/index.html"><input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="Search..."></form></div><div style="margin-left:0.5em;margin-top:1.2em"><input id="switch_default" onclick="mobileBtn()" type="checkbox" class="switch_default"><label for="switch_default" class="toggleBtn"></label></div></div>
-<div class="clear clear_nav_inline_end"></div></div></div><div class="clear clear_nav_end"></div></div></div><div class="hamberger" href="javascript:void(0)" onclick="btn_toggle();"><i class="iconfont icon-category"></i></div></div></div></div>
-<div id="hn" class="no-js hidden_nav animated fadeInDown"><div class="bitcron_nav_container"><div class="bitcron_nav"><nav class="mixed_site_nav_wrap site_nav_wrap"><ul class="mixed_site_nav site_nav sm sm-base">	<li><a id="d2ef19af68cc211e98f8a0242ac110003" href="/" class="selected active current nav__item" >应用下载</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="https://jessegary.github.io/post/ying-yong-fa-bu-mo-ban" class="selected active current nav__item" >应用发布模板</a></li><li><a id="d2ef19af68cc211e98f8a0242ac110003" href="https://jessegary.github.io/post/huan-ying-lai-dao-jessegary-de-ge-ren-bo-ke" class="selected active current nav__item" >个人博客</a></li></ul><div class="clear clear_nav_inline_end"></div></nav></div><div class="clear clear_nav_end"></div></div>
-<div style="display:flex;justify-content:center;inline-block;text-align:center;margin-top:7%"><div><form id="gridea-search-form" data-update="1589042053316" action="/search/index.html"><input class="search-input" autocomplete="off" spellcheck="false" name="q"  placeholder="Search..." /></form></div><div style="margin-left:0.5em"><input id="switch_default_h" onclick="mobileBtn()" type="checkbox" class="switch_default"><label for="switch_default" class="toggleBtn"></label></div></div>
-</div></div>
-<script>function enableDarkmode(){document.body.classList.add("darkmode"),document.getElementById("switch_default").checked=1,document.getElementById("switch_default_h").checked=1}function removeDarkmode(){document.body.classList.remove("darkmode"),document.getElementById("switch_default").checked=0,document.getElementById("switch_default_h").checked=0}function getCookie(a){var b,c=new RegExp("(^| )"+a+"=([^;]*)(;|$)");return(b=document.cookie.match(c))?unescape(b[2]):null}cookie=getCookie("darkmode"),"enable"==cookie&&enableDarkmode(),window.matchMedia("(prefers-color-scheme: dark)").matches&&"disable"!==cookie&&(enableDarkmode(),document.cookie="darkmode=enable; path=/");var mobileBtn=function(){1==document.getElementById("switch_default").checked?(enableDarkmode(),document.cookie="darkmode=enable; path=/"):(removeDarkmode(),document.cookie="darkmode=disable; path=/")};</script>
+<nav id="drawer" class="mdui-drawer mdui-drawer-full-height mdui-drawer-close">
+    <ul class="mdui-list">
+        <a href="/" class="menu"><li class="mdui-list-item mdui-ripple">应用下载</li></a>
+        
+            <a href="https://jessegary.github.io/post/ying-yong-fa-bu-mo-ban" target="_blank"><li class="mdui-list-item mdui-ripple">应用发布模板</li></a>
+        <a href="https://jessegary.github.io/post/huan-ying-lai-dao-jessegary-de-ge-ren-bo-ke" class="menu"><li class="mdui-list-item mdui-ripple">个人博客</li></a>
+        
+        <a href="https://github.com/CPlayer-CN/gridea-theme-cplayer-material" class="spread"><li class="mdui-list-item mdui-ripple">主题主页</li></a>
+    </ul>
+</nav>
 
-<div class="main"><div class="main-inner"><div class="content">
-<article class="post">
-<h2 class="post_title sm_margin"><a>Tuling Studio 20200210 By:Newgen Studio</a></h2>
-<script>function lan(){if(document.getElementById("lan").innerText=="繁"){var s=document.getElementById("tongwenlet_cn");if(s!=null){document.body.removeChild(s)}var s=document.createElement("script");s.language="javascript";s.type="text/javascript";s.src="https://cdn.jsdelivr.net/gh/qyxtim/Static@1.1/bookmarklet_tw.js";s.id="tongwenlet_cn";document.body.appendChild(s);document.getElementById("lan").innerHTML="简"}else{if(document.getElementById("lan").innerText=="簡"){var s=document.getElementById("tongwenlet_cn");if(s!=null){document.body.removeChild(s)}var s=document.createElement("script");s.language="javascript";s.type="text/javascript";s.src="https://cdn.jsdelivr.net/gh/qyxtim/Static@1.1/bookmarklet_cn.js";s.id="tongwenlet_cn";document.body.appendChild(s);document.getElementById("lan").innerHTML="繁"}}};</script>
-<section class="post_details"><i class="iconfont icon-calendar"></i><span style="margin-right:15px"> 2020-04-12</span><i class="iconfont icon-browse"></i><span style="margin-right:15px"> <span id="busuanzi_value_page_pv"></span> Views</span><i class="iconfont icon-category"></i><span class="weaklink" style="margin-right:15px"></span><i class="iconfont icon-caret-down"></i><span style="margin-right:15px">168字</span><i class="iconfont icon-naozhong"></i><span style="margin-right:15px">1 min read</span><a id="lan" href="javascript:void(0);"onclick="lan();"title="调整简繁体" style="margin-right:15px;">繁</a>
-</section>
 
-<img class="featureImg" alt="featureimg" src="https://jessegary.github.io/post-images/tuling-studio-20200210.png" referrerpolicy="no-referrer">
-
-<div style="display:flex">
-<div class="md_block" id="md_block">
-<div class="round-shape-one"></div>
-<p>By Newgen Studio<br>
+<main class="mdui-container mdui-typo mdui-m-t-2">
+    <section class="mdui-card">
+        
+        <div class="mdui-card-media">
+            <img src="https://jessegary.github.io/post-images/tuling-studio-20200210.png">
+        </div>
+        
+        <div class="mdui-card-primary">
+            <div class="mdui-card-primary-title">Tuling Studio 20200210 By:Newgen Studio</div>
+            <div class="mdui-card-primary-subtitle">发布于 2020-04-12，包含标签 。</div>
+        </div>
+        <div class="mdui-card-content"><p>By Newgen Studio<br>
 <a href="https://jessegary.github.io/">&lt; 返回商店</a></p>
 <h2 id="简介">简介</h2>
 <p>Tuling Studio 是 Newgen Studio 发布的一款适用于快速开发 PPT 应用 的工作室 PPT 程序。<br>
@@ -65,50 +83,39 @@
 <h2 id="应用截图">应用截图</h2>
 <p>暂时没有截图哦~</p>
 <p>下载地址（39M</p>
+</div>
+        <div class="mdui-card-header">
+            <img class="mdui-card-header-avatar" src="https://jessegary.github.io/images/avatar.png">
+            <div class="mdui-card-header-title">Humidity 商店</div>
+            <div class="mdui-card-header-subtitle">欢迎来到生态圈商店，您可以在这里下载应用</div>
+        </div>
+    </section>
 
-<span id="footnote"></span>
-<div id = "warn"></div>
-</div>
-<div class="toc-container"><ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#%E7%AE%80%E4%BB%8B">简介</a></li>
-<li><a href="#%E7%BB%BF%E8%89%B2%E5%BA%94%E7%94%A8%E5%85%AC%E7%BA%A6%E7%8A%B6%E6%80%81">绿色应用公约状态</a></li>
-<li><a href="#%E4%B8%8B%E8%BD%BD">下载</a></li>
-<li><a href="#%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0">版本更新</a></li>
-<li><a href="#%E6%89%80%E9%9C%80%E6%9D%83%E9%99%90">所需权限</a></li>
-<li><a href="#%E5%BB%BA%E8%AE%AE%E8%BF%90%E8%A1%8C%E8%AE%BE%E5%A4%87">建议运行设备</a></li>
-<li><a href="#%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98">反馈问题</a></li>
-<li><a href="#%E5%BA%94%E7%94%A8%E6%88%AA%E5%9B%BE">应用截图</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<div id="fullPage"><canvas id="canvas"></canvas></div>
-</article>
-<div id="eof"><span>EOF</span></div><div class="round-shape-one"></div>
-<section>
-<div class="doc_comments">
+      
+</main>
 
-</div></section>
-</div></div></div><script>
-"use strict";!function(){for(var n=document.getElementsByTagName("pre"),e=n.length,s=0;s<e;s++){n[s].innerHTML='<span class="line-number"></span>'+n[s].innerHTML+'<span class="cl"></span>';for(var a=n[s].innerHTML.split(/\n/).length,r=0;r<a-1;r++){n[s].getElementsByTagName("span")[0].innerHTML+="<span>"+(r+1)+"</span>"}}}();
-let mainNavLinks=document.querySelectorAll(".markdownIt-TOC a");window.addEventListener("scroll",event=>{let fromTop=window.scrollY;mainNavLinks.forEach((link,index)=>{let section=document.getElementById(decodeURI(link.hash).substring(1));let nextSection=null
-if(mainNavLinks[index+1]){nextSection=document.getElementById(decodeURI(mainNavLinks[index+1].hash).substring(1));}
-if(section.offsetTop<=fromTop){if(nextSection){if(nextSection.offsetTop>fromTop){link.classList.add("currentToc");}else{link.classList.remove("currentToc");}}else{link.classList.add("currentToc");}}else{link.classList.remove("currentToc");}});});
-var list=document.querySelectorAll(".katex");for(var i=0;i<list.length;i++){list[i].style.display="unset"};
-var h=document.documentElement,b=document.body,st="scrollTop",sh="scrollHeight",progress=document.querySelector(".progress"),scroll;document.addEventListener("scroll",function(){scroll=(h[st]||b[st])/((h[sh]||b[sh])-h.clientHeight)*100;progress.style.setProperty("--scroll",scroll+"%")});
-var wxScale=new WxScale({fullPage:document.querySelector("#fullPage"),canvas:document.querySelector("#canvas")});var imgBox=document.querySelectorAll("#md_block img");for(var i=0;i<imgBox.length;i++){imgBox[i].onclick=function(e){wxScale.start(this)}};
-content="本文最后更新于2020-04-12，已超过 1 年没有更新，涉及的内容可能已经失效！";var date1="2020-04-12 18:30:48";date1=date1.replace("-","/");var date2=new Date();var date3=date2.getTime()-new Date(date1).getTime();var days=Math.floor(date3/(24*3600*1000));if(days>=365){document.getElementById("warn").innerHTML=content};
-</script>
-<style>#magnifyImg{position:fixed;left:0;top:0;text-align:center;width:100%;display:none;z-index:9999}#magnifyImg img{object-fit:contain;background:#eaecef;padding:15px;border-radius:10px;height:auto;width:auto;vertical-align:middle}</style>
-<a id="scrollUp" href="#top" style="position: fixed; z-index: 2147483647; display: block;"></a><div class="footer animated fadeInDown"><div class="site_footer"><div class="mysocials"><div class="my_socials"></div></div><div class="copyright"id="copyright">Powered by <a href="https://bilibili.com" target="_blank"> Humidity PowerPoint</a>Copyright © 2018-2020 <a href="https://jessegary.github.io" style="margin:0;">Humidity 商店</a>.</div>
-<span style="display: inline;margin-right:15px;">👁<strong><span id="busuanzi_value_site_uv"></span></strong></span><span id="busuanzi_container_page_pv" style="display: inline;"><span>📚<strong>11</strong> posts</span></div></div>
+<nav class="mdui-container mdui-m-t-2 mdui-m-b-2">
+    <a href="https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/" mdui-tooltip="{content: '上一篇', position: 'right'}"><button class="mdui-btn mdui-btn-icon mdui-btn-dense mdui-color-theme-accent mdui-ripple mdui-m-r-1"><i class="mdui-icon material-icons">arrow_back</i></button>静心时间 By:十叠</a>
+    <a href="https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/" mdui-tooltip="{content: '下一篇', position: 'left'}" class="mdui-float-right">小小笔记本 By:MXrek<button class="mdui-btn mdui-btn-icon mdui-btn-dense mdui-color-theme-accent mdui-ripple mdui-m-l-1"><i class="mdui-icon material-icons">arrow_forward</i></button></a>
+</nav>
+
+<div class="mdui-m-t-2 mdui-text-center mdui-typo">
+    Powered by <a href="https://bilibili.com" target="_blank"> Humidity PowerPoint</a>
+</div>
+
+<script src="https://jessegary.github.io/media/js/jquery.min.js"></script>
+<script src="https://jessegary.github.io/media/js/mdui.min.js"></script>
+<script src="https://jessegary.github.io/media/js/modify.js"></script>
+<script src="https://jessegary.github.io/media/js/highlight.min.js"></script>
+<script src="https://jessegary.github.io/media/js/lightense.min.js"></script>
 <script>
-console.log("\n %c \u26a1Theme: Bitcron-pro Author's Blog:https://blog.blinkstar.cn  Writen By Serence  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;", );
+// 初始化-高亮代码
+hljs.initHighlightingOnLoad();
+// 初始化-文章图片放大
+window.addEventListener('load', function () {
+    Lightense('#post .mdui-card-content img');
+}, false);
 </script>
-<script src="https://cdn.jsdelivr.net/npm/instant.page@3.0.0/instantpage.min.js" type="module" defer></script>
-<script type="text/javascript" async src="https://jessegary.github.io/media/js/prism.js"></script>
+
 </body>
 </html>
