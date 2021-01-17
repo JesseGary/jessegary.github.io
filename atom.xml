@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2021-01-17T02:17:07.962Z</updated>
+    <updated>2021-01-17T02:28:15.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Humidity 商店</rights>
     <entry>
-        <title type="html"><![CDATA[【广告】OUR LAB 猫猫设计桶]]></title>
+        <title type="html"><![CDATA[广告 | OUR LAB 猫猫设计桶]]></title>
         <id>https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/</id>
         <link href="https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/">
         </link>
