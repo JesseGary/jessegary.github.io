@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2021-01-17T01:25:27.062Z</updated>
+    <updated>2021-01-17T02:17:07.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -44,6 +44,13 @@
         <link href="https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/">
         </link>
         <updated>2020-04-12T10:08:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newgen 电视]]></title>
+        <id>https://jessegary.github.io/post/newgen-dian-shi/</id>
+        <link href="https://jessegary.github.io/post/newgen-dian-shi/">
+        </link>
+        <updated>2020-04-12T10:04:26.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[小小笔记本 By:MXrek]]></title>
