@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2021-01-18T03:45:02.921Z</updated>
+    <updated>2021-01-18T03:59:22.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -53,6 +53,13 @@
         <updated>2021-01-16T14:40:54.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[免费广告位 | 等待您的使用]]></title>
+        <id>https://jessegary.github.io/post/AD2/</id>
+        <link href="https://jessegary.github.io/post/AD2/">
+        </link>
+        <updated>2021-01-13T03:51:24.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[静心时间]]></title>
         <id>https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/</id>
         <link href="https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/">
@@ -72,12 +79,5 @@
         <link href="https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/">
         </link>
         <updated>2020-04-12T10:08:36.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newgen 电视]]></title>
-        <id>https://jessegary.github.io/post/newgen-dian-shi/</id>
-        <link href="https://jessegary.github.io/post/newgen-dian-shi/">
-        </link>
-        <updated>2020-04-12T10:04:26.000Z</updated>
     </entry>
 </feed>
