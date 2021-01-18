@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2021-01-18T03:04:54.609Z</updated>
+    <updated>2021-01-18T03:25:57.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Humidity 商店</rights>
+    <entry>
+        <title type="html"><![CDATA[快应用]]></title>
+        <id>https://jessegary.github.io/post/kuai-ying-yong/</id>
+        <link href="https://jessegary.github.io/post/kuai-ying-yong/">
+        </link>
+        <updated>2021-01-18T03:11:02.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[善良的勇士与黑暗魔王Beta1.0]]></title>
         <id>https://jessegary.github.io/post/pptgameaysldqshamw/</id>
@@ -72,12 +79,5 @@
         <link href="https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/">
         </link>
         <updated>2020-04-12T10:01:36.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Media Player For PowerPoint]]></title>
-        <id>https://jessegary.github.io/post/ying-yong-ce-shi/</id>
-        <link href="https://jessegary.github.io/post/ying-yong-ce-shi/">
-        </link>
-        <updated>2020-04-12T06:35:48.000Z</updated>
     </entry>
 </feed>
