@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2021-01-17T14:42:02.148Z</updated>
+    <updated>2021-01-18T03:02:08.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Humidity 商店</rights>
+    <entry>
+        <title type="html"><![CDATA[善良的勇士与黑暗魔王Beta1.0]]></title>
+        <id>https://jessegary.github.io/post/pptgameaysldqshamw/</id>
+        <link href="https://jessegary.github.io/post/pptgameaysldqshamw/">
+        </link>
+        <updated>2021-01-18T02:32:24.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuling 3.3]]></title>
         <id>https://jessegary.github.io/post/tuling-33/</id>
@@ -32,14 +39,14 @@
         <updated>2021-01-16T14:40:54.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[静心时间 By:十叠]]></title>
+        <title type="html"><![CDATA[静心时间]]></title>
         <id>https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/</id>
         <link href="https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/">
         </link>
         <updated>2020-04-18T09:16:30.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tuling Studio 20200210 By:Newgen Studio]]></title>
+        <title type="html"><![CDATA[Tuling Studio 20200210]]></title>
         <id>https://jessegary.github.io/post/tuling-studio-20200210/</id>
         <link href="https://jessegary.github.io/post/tuling-studio-20200210/">
         </link>
@@ -60,14 +67,14 @@
         <updated>2020-04-12T10:04:26.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小小笔记本 By:MXrek]]></title>
+        <title type="html"><![CDATA[小小笔记本]]></title>
         <id>https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/</id>
         <link href="https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/">
         </link>
         <updated>2020-04-12T10:01:36.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows Media Player For PowerPoint By:Newgen Studio]]></title>
+        <title type="html"><![CDATA[Windows Media Player For PowerPoint]]></title>
         <id>https://jessegary.github.io/post/ying-yong-ce-shi/</id>
         <link href="https://jessegary.github.io/post/ying-yong-ce-shi/">
         </link>
