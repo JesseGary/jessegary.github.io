@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>Humidity 商店</title>
-    <updated>2021-01-18T03:59:22.138Z</updated>
+    <updated>2021-01-19T01:44:33.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -53,7 +53,7 @@
         <updated>2021-01-16T14:40:54.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[免费广告位 | 等待您的使用]]></title>
+        <title type="html"><![CDATA[广告 | Longhorn Live ，您关心的一切]]></title>
         <id>https://jessegary.github.io/post/AD2/</id>
         <link href="https://jessegary.github.io/post/AD2/">
         </link>
