@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>零炘生态 | 应用商店 </title>
-    <updated>2021-01-26T15:06:03.333Z</updated>
+    <updated>2021-01-28T14:55:46.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 零炘生态 | 应用商店 </rights>
+    <entry>
+        <title type="html"><![CDATA[Newgen文件管理器]]></title>
+        <id>https://jessegary.github.io/post/newgen-wen-jian-guan-li-qi/</id>
+        <link href="https://jessegary.github.io/post/newgen-wen-jian-guan-li-qi/">
+        </link>
+        <updated>2021-01-28T14:48:18.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EXE投稿 | Microsoft WebBrowser Cracker 和其他组件]]></title>
         <id>https://jessegary.github.io/post/exe-tou-gao-or-microsoft-webbrowser-cracker-he-qi-ta-zu-jian/</id>
@@ -72,12 +79,5 @@
         <link href="https://jessegary.github.io/post/tuling-studio-20200210/">
         </link>
         <updated>2020-04-12T10:30:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是男人就挺30秒]]></title>
-        <id>https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/</id>
-        <link href="https://jessegary.github.io/post/shi-nan-ren-jiu-ting-30-miao/">
-        </link>
-        <updated>2020-04-12T10:08:36.000Z</updated>
     </entry>
 </feed>
