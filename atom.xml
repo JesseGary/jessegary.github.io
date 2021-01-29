@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>零炘生态 | 应用商店 </title>
-    <updated>2021-01-28T14:57:42.730Z</updated>
+    <updated>2021-01-29T14:49:41.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 零炘生态 | 应用商店 </rights>
     <entry>
-        <title type="html"><![CDATA[Newgen文件管理器]]></title>
+        <title type="html"><![CDATA[Newgen 文件管理器]]></title>
         <id>https://jessegary.github.io/post/newgen-wen-jian-guan-li-qi/</id>
         <link href="https://jessegary.github.io/post/newgen-wen-jian-guan-li-qi/">
         </link>
@@ -46,7 +46,7 @@
         <updated>2021-01-17T12:57:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[空广告位 | 你好 ReHearsal Desktop]]></title>
+        <title type="html"><![CDATA[广告 | Newgen Studio，致力于打造 PPT 的更多可能 ]]></title>
         <id>https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/</id>
         <link href="https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/">
         </link>
