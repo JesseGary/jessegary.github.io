@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>零炘生态 | 应用商店 </title>
-    <updated>2021-04-03T16:32:09.491Z</updated>
+    <updated>2021-04-04T15:37:27.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 零炘生态 | 应用商店 </rights>
+    <entry>
+        <title type="html"><![CDATA[像素计算器]]></title>
+        <id>https://jessegary.github.io/post/xiang-su-ji-suan-qi/</id>
+        <link href="https://jessegary.github.io/post/xiang-su-ji-suan-qi/">
+        </link>
+        <updated>2021-04-04T15:13:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚拟机 2.0]]></title>
+        <id>https://jessegary.github.io/post/xu-ni-ji-20/</id>
+        <link href="https://jessegary.github.io/post/xu-ni-ji-20/">
+        </link>
+        <updated>2021-04-04T15:02:25.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shape]]></title>
         <id>https://jessegary.github.io/post/shape/</id>
@@ -60,24 +74,10 @@
         <updated>2021-01-17T12:57:01.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[广告 | Newgen Studio，致力于打造 PPT 的更多可能 ]]></title>
+        <title type="html"><![CDATA[广告 | 目前为止没有广告哦~]]></title>
         <id>https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/</id>
         <link href="https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/">
         </link>
         <updated>2021-01-16T15:19:39.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好，我是零炘 | 很高兴与你见面！]]></title>
-        <id>https://jessegary.github.io/post/ni-hao-2021-or-lang-chao-sheng-tai-xin-nei-rong/</id>
-        <link href="https://jessegary.github.io/post/ni-hao-2021-or-lang-chao-sheng-tai-xin-nei-rong/">
-        </link>
-        <updated>2021-01-16T14:40:54.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广告 | 想在PPT中听歌吗，WinnerMusic是您的不二之选]]></title>
-        <id>https://jessegary.github.io/post/AD2/</id>
-        <link href="https://jessegary.github.io/post/AD2/">
-        </link>
-        <updated>2021-01-13T03:51:24.000Z</updated>
     </entry>
 </feed>
