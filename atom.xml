@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io</id>
     <title>零炘生态 | 应用商店 </title>
-    <updated>2021-04-04T15:44:04.056Z</updated>
+    <updated>2021-04-05T05:47:24.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io"/>
     <link rel="self" href="https://jessegary.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://jessegary.github.io/images/avatar.png</logo>
     <icon>https://jessegary.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 零炘生态 | 应用商店 </rights>
+    <entry>
+        <title type="html"><![CDATA[Gobang 五子棋]]></title>
+        <id>https://jessegary.github.io/post/gobangwzq5/</id>
+        <link href="https://jessegary.github.io/post/gobangwzq5/">
+        </link>
+        <updated>2021-04-05T05:32:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孤岛余生]]></title>
+        <id>https://jessegary.github.io/post/gdyus/</id>
+        <link href="https://jessegary.github.io/post/gdyus/">
+        </link>
+        <updated>2021-04-05T04:53:02.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像素计算器]]></title>
         <id>https://jessegary.github.io/post/xiang-su-ji-suan-qi/</id>
@@ -65,19 +79,5 @@
         <link href="https://jessegary.github.io/post/pptgameaysldqshamw/">
         </link>
         <updated>2021-01-18T02:32:24.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuling 3.3]]></title>
-        <id>https://jessegary.github.io/post/tuling-33/</id>
-        <link href="https://jessegary.github.io/post/tuling-33/">
-        </link>
-        <updated>2021-01-17T12:57:01.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广告 | 目前为止没有广告哦~]]></title>
-        <id>https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/</id>
-        <link href="https://jessegary.github.io/post/mian-fei-guang-gao-wei-guang-gao-wei/">
-        </link>
-        <updated>2021-01-16T15:19:39.000Z</updated>
     </entry>
 </feed>
